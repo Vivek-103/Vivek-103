@@ -1,5 +1,5 @@
 
-<img width="2520" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/7ed23ac4-9e68-4b51-ad61-955cfde4778b" />
+<img width="2520" height="690" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/9867ea3b-eaa2-4c5e-84b2-3849540b250e" />
 
 
 <h3 align="center">A passionate coder from India, driven by curiosity and creativity. I love building Stuffs. Constantly learning and exploring new tools, I strive to write code that not only works flawlessly but is also elegant and maintainable. I enjoy contributing and collaborating with fellow developers to grow and share knowledge. I continuously seek to expand my skill set and contribute meaningfully to software projects.</h3>
