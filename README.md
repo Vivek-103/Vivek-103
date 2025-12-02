@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://twitter.com/@srivastavvivek_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@srivastavvivek_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/vivek-srivastava03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-srivastava03" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vivek-srivastava03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-srivastava03" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,10 +21,9 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Vivek-103&theme=gruvbox&hide_border=true" alt="Vivek's Streak Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-103&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Vivek's Top Languages" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Vivek-103&theme=gruvbox&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-103&theme=gruvbox&hide_border=true&layout=compact&langs_count=8&cache_seconds=7200" height="165"/>
 </p>
-
 
 
 
