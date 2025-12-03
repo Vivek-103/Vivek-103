@@ -22,7 +22,6 @@
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Vivek-103&theme=gruvbox&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-103&theme=gruvbox&hide_border=true&layout=compact&langs_count=8&cache_seconds=7200" height="165"/>
 </p>
 
 
