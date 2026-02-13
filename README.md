@@ -4,7 +4,7 @@
        
 <h3 align="center">A passionate coder from India, driven by curiosity and creativity. I love building Stuffs. Constantly learning and exploring new tools, I strive to write code that not only works flawlessly but is also elegant and maintainable. I enjoy contributing and collaborating with fellow developers to grow and share knowledge. I continuously seek to expand my skill set and contribute meaningfully to software projects.</h3>
 
-- 🌱 I’m currently learning **Web-2 & DSA.**
+- 🌱 I’m currently learning **Full Stack Development, Machine learning and Generative AI.**
 
 - 📫 How to reach me **viveksrivastava1003@gmail.com**
 
