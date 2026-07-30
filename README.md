@@ -70,13 +70,6 @@
 
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vivek-103&theme=gruvbox&hide_border=true" height="165"/>
-</p>
-
-
 
 [![Vivek profile views](https://u8views.com/api/v1/github/profiles/168767894/views/day-week-month-total-count.svg)](https://u8views.com/github/Vivek-103)
 
